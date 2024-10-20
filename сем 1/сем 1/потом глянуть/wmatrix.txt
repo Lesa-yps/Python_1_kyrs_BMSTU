@@ -1,0 +1,8 @@
+NoneNoneNoneNoneNoneNoneNone['ë', 'í', 'í', 'û', 'õ', ' ', 'â', 'Ó']
+[' ', 'á', 'å', ' ', 'ä', 'î', 'ë', 'í']['ð', 'å', 'ó', 'ì', ' ', 'è', 'í', ' ']['ã', ' ', 'â', ' ', 'î', 'â', 'ä', 'å']NoneNoneNoneNoneNone
+['â', 'ñ', 'ò', 'ë', 'î', ' ', 'à', 'è']['ï', 'ë', 'ÿ', 'ë', 'ó', 'ñ', 'ê', 'è']NoneNoneNoneNoneNoneNone
+[' ', 'ü', ' ', 'ò', 'û', 'õ', ' ', 'ï']NoneNoneNone['î', 'ã', 'ë', 'ÿ', 'ä', 'å', 'í', 'î']NoneNoneNone
+NoneNoneNoneNoneNoneNoneNoneNone
+NoneNoneNoneNoneNoneNoneNoneNone
+NoneNoneNoneNoneNoneNoneNoneNone
+NoneNoneNoneNoneNoneNoneNoneNone

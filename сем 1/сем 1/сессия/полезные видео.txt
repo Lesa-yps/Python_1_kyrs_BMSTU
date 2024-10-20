@@ -1,0 +1,2 @@
+ про *args и **kwargs:
+https://youtu.be/kPdm0NV-bjQ

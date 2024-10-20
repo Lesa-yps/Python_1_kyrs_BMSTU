@@ -1,0 +1,3 @@
+https://youtu.be/5bsRdzraoXE
+про [, memo] в copy.deepcopy()
+https://duongnt.com/deep-copy/

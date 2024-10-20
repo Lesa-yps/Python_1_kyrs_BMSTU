@@ -1,0 +1,1 @@
+https://docs-python.ru/standart-library/modul-struct-struktury-python/funktsii-iskljuchenija-modulja-struct/#struct.pack_into

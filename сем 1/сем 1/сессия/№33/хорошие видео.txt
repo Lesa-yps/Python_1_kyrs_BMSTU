@@ -1,0 +1,10 @@
+map
+https://youtu.be/2ghKShXWuSs
+filter
+https://youtu.be/q0xKow-E4Ws
+zip
+https://youtu.be/1sNJoGQQfiM
+про всё:
+https://youtu.be/UDthAJmD3EQ
++ lambda (но это текст)
+http://pythonicway.com/python-functinal-programming

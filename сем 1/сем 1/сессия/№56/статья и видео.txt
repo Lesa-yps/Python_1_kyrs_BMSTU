@@ -1,0 +1,2 @@
+https://urvanov.ru/2019/05/24/круговая-диаграмма-в-matplotlib/
+https://youtu.be/FHOOx_4ruGU
